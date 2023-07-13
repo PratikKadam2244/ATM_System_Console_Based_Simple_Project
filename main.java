@@ -103,6 +103,7 @@ class ATMMachine
 {
     public static void main(String[] args)
     {
+        System.out.println("===== WELECOME TO PRATIK ATM =====");
         ATM ref=new ATM();
         ref.checkpin();
     }
